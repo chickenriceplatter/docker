@@ -13,4 +13,4 @@ command to create a mysql container
 
 connect to containerized mysql using sequel pro
 ---
-![sequel pro instructions](/docker_sequel_pro.png)
+![sequel pro instructions](./docker_sequel_pro.png)
